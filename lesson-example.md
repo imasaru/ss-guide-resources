@@ -11,11 +11,11 @@ date:   21/11/2017      # This is the lesson date, in DD/MM/YYYY format.
 `Romans 7, Romans 7:8, 9 Romans 7:8-13` (don't enclose these with grave marks)
 
 
-#### *We use grave accents to enclose questions. This adds a text box to which users can add notes.*
+#### *We use grave accents ` to enclose questions. This adds a text box to which users can add notes.*
 
 `Read Romans 7:12. How do we understand this text in the context of what Paul has been discussing?`
 
-#### *Paste lesson content as regular text.*
+#### *Paste lesson content.*
 
 Because the Jews revered the law, Paul exalts it in every way possible. The law is good for what it does, but it can’t do what it was never meant to do—save us from sin. For that we need Jesus, because the law—whether the entire Jewish system or the moral law in particular— cannot bring salvation. Only Jesus and His righteousness, which come to us by faith, can.
 
@@ -27,9 +27,7 @@ In Romans 7:13, Paul is presenting the “law” in the best sense possible. He 
 
 
 #### *If text formatting is used in the source content, use it here as well.*
-**Carnal means...**
-*Carnal means...*
-__Carnal means...__
+
 _Carnal_ means “fleshly.” Thus, Paul needed Jesus Christ. Only Jesus Christ could take away the condemnation (Rom. 8:1). Only Jesus Christ could free him from slavery to sin.
 
 Paul describes himself as “sold under sin.” He is a slave to sin. He has no freedom. He can’t do what he wants to do. He tries to do what the good law tells him to do, but sin won’t let him.
@@ -38,6 +36,6 @@ By this illustration, Paul was trying to show the Jews their need of the Messiah
 
 `What has been your own experience with how sin enslaves? Have you ever tried to play with sin, thinking you could control it as you wished, only to find yourself under a vicious and merciless taskmaster? Welcome to reality! Why, then, must you surrender to Jesus and die to self daily?`
 
-#### *Add a notes section if a question is not included at the end of a [lesson](https://github.com/Adventech/sabbath-school-lessons/blob/6895258cd4b37984b745b2a1c906ae85ec53bc71/src/en/2017-01/02/01.md).*
+#### *Add a notes section using grave accents if a question is not included at the end of a [lesson](https://github.com/Adventech/sabbath-school-lessons/blob/6895258cd4b37984b745b2a1c906ae85ec53bc71/src/en/2017-01/02/01.md).*
 
 `Notes`
